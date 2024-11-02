@@ -10,7 +10,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 跟李沐学AI [Link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 #### 文献阅读能力
-请利用Mendeley文献工具分门别类关联文献，尽量不用翻译器去阅读文献（遇到不会的单词再去百度翻译），初期阅读一篇论文的速度约为4-5小时
+请利用Mendeley文献工具分门别类关联文献，尽量不用翻译器去阅读文献(遇到不会的单词再去百度翻译)，初期阅读一篇论文的速度约为4-5小时
 
 ##### 点云分类/特征编码
 PointNet: Deep learning on point sets for 3D classification and segmentation [CVPR 2017]
