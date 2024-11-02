@@ -7,7 +7,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 硬件环境：双系统Ubuntu (ubuntu系统单独一个固态硬盘)，Cuda，Cudnn，Anaconda
 
 #### 基础知识学习
-跟李沐学AI [link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+跟李沐学AI [Link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 #### 文献阅读能力
 
