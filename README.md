@@ -9,4 +9,6 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 
 #### 文献阅读能力
 
+##### 点云分类/特征编码
+
 #### 代码实践能力
