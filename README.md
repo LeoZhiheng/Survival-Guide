@@ -23,7 +23,7 @@ PointNet ++ : Deep Hierarchical Feature Learning on Point Sets in a Metric Space
 
 PointMamba: A Simple State Space Model for Point Cloud Analysis [NIPS 2024]
 
-##### 三维点云目标检测
+##### 三维点云目标检测 (Only LiDRA)
 
 SECOND: Sparsely Embedded Convolutional Detection [Sensors 2018]
 
@@ -35,8 +35,9 @@ Center-based 3D Object Detection and Tracking [CVPR 2021]
 
 VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking [CVPR 2023]
 
-##### 三维点云目标跟踪
+##### 三维点云目标跟踪 (3D SOT)
 
+P2B: Point-to-box network for 3D object tracking in point clouds
 
 
 #### 代码实践能力
