@@ -37,7 +37,24 @@ VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking [CVPR 2023
 
 ##### 三维点云目标跟踪 (3D SOT)
 
-P2B: Point-to-box network for 3D object tracking in point clouds
+P2B: Point-to-box network for 3D object tracking in point clouds [CVPR 2020]
 
+Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds [ICCV 2021]
+
+PTTR: Relational 3D Point Cloud Object Tracking with Transformer [CVPR 2022]
+
+Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds [CVPR 2022]
+
+##### 三维点云分割 (Semantic Segmentation)
+
+TemporalLidarSeg: LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment [3DV 2020]
+
+Polarnet: An improved grid representation for online Lidar point clouds semantic segmentation [CVPR 2020]
+
+CENet: Toward Concise and Efficient Lidar Semantic Segmentation for Autonomous Driving [ICME 2022]
+
+RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving [CVPR 2023]
+
+RangeFormer: Rethinking Range View Representation for LiDAR Segmentation [ICCV 2023]
 
 #### 代码实践能力
