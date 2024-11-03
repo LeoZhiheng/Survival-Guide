@@ -9,7 +9,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 
 #### 基础知识学习
 掌握ROS基础知识！      
-掌握Pytorch基本语法！       
+掌握Python/Pytorch基本语法！       
 请通过CSDN，知乎或B站建立以下概念的认知！       
 
 什么是卷积，池化，激活函数，全连接层，批归一化等常见网络元素？     
