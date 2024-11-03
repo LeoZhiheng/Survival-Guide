@@ -10,7 +10,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 #### 基础知识学习
 什么是卷积、池化、激活函数、全连接层、批归一化等常见网络元素？     
 什么是RNN、LSTM、GRU、Transformer、Mamba等常见网络基础模块？适用于什么任务场景？    
-常见的损失函数有哪些？哪些适合分类任务、哪些适合回归任务？
+常见的损失函数有哪些？哪些适合分类任务、哪些适合回归任务？       
 代码上如何实现数据处理、并行计算、网络搭建、优化器设置以及网络优化？
 
 跟李沐学AI [Link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)    
