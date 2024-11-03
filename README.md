@@ -8,7 +8,9 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 软件环境：双系统Ubuntu (ubuntu系统单独一个500G/1T固态硬盘)，Cuda，Cudnn，Anaconda
 
 #### 基础知识学习
-跟李沐学AI [Link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+
+跟李沐学AI [Link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)    
+PyTorch深度学习快速入门教程 [Link](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=fa42d88ec19eff6dbea9dd604c15f925)
 
 #### 文献阅读能力
 请利用Mendeley文献工具分门别类管理文献，初期可以借助一些翻译器阅读文献，后期尽量避免(遇到不会的单词再去百度翻译); 重点阅读Abstract，Introduction和Method，对Related Work简要阅读，Experiment部分主要阅读表格数据、评价指标与常用数据集; 初期速度约为4-5小时一篇论文.     
