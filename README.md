@@ -17,7 +17,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 
 以下将提供环境感知相关领域的基础文章，请按顺序或者兴趣进行阅读，请注意在阅读过程中寻找同一任务文章之间的联系，例如：思想的继承与发展关系？      
 请对某一任务的相关论文进行集中阅读与总结，切勿各个任务论文交叉阅读
-(以下论文仅为基础知识，并未是目前最前沿的主流方向)
+(以下论文仅为基础知识，并未是目前最前沿的主流方向，因此需要快速掌握)     
 ##### 点云分类/特征编码
 PointNet: Deep learning on point sets for 3D classification and segmentation [CVPR 2017]
 
