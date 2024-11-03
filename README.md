@@ -8,6 +8,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 软件环境：双系统Ubuntu (ubuntu系统单独一个500G/1T固态硬盘)，Cuda，Cudnn，Anaconda
 
 #### 基础知识学习
+ROS基础知识！
 什么是卷积，池化，激活函数，全连接层，批归一化等常见网络元素？     
 什么是RNN，LSTM，GRU，Transformer，Mamba等常见网络基础模块？适用于什么任务场景？    
 常见的损失函数有哪些？哪些适合分类任务，哪些适合回归任务？       
