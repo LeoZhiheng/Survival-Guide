@@ -8,12 +8,13 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 软件环境：双系统Ubuntu (ubuntu系统单独一个500G/1T固态硬盘)，Cuda，Cudnn，Anaconda
 
 #### 基础知识学习
-ROS基础知识！     
+掌握ROS基础知识！      
+请通过CSDN，知乎或B站建立以下概念的认知！       
 什么是卷积，池化，激活函数，全连接层，批归一化等常见网络元素？     
 什么是RNN，LSTM，GRU，Transformer，Mamba等常见网络基础模块？适用于什么任务场景？    
-常见的损失函数有哪些？哪些适合分类任务，哪些适合回归任务？       
-代码上如何实现数据处理，并行计算，网络搭建，优化器设置以及网络优化？
-什么是二维/三维目标检测、跟踪、分割？什么是占据栅格预测OCC？什么是基于环视BEV的目标检测？什么是NeRF(Neural Radiance Fields)和3D Gaussian Splatting？
+常见的损失函数有哪些？哪些适合分类任务，哪些适合回归任务？              
+代码上如何实现数据处理，并行计算，网络搭建，优化器设置以及网络优化？        
+什么是二维/三维目标检测、跟踪、分割？什么是占据栅格预测OCC？什么是基于环视BEV的目标检测？什么是NeRF (Neural Radiance Fields)和3D Gaussian Splatting？
 
 跟李沐学AI [Link](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)    
 PyTorch深度学习快速入门教程 [Link](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=fa42d88ec19eff6dbea9dd604c15f925)
