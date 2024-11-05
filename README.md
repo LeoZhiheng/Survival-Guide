@@ -5,7 +5,7 @@ Teaching You How to Survive in the Lab (实验室求生指南)
 
 #### 基本科研工具
 硬件环境：笔记本电脑至少配备30系列的显卡    
-软件环境：双系统Ubuntu (ubuntu系统单独一个500G/1T固态硬盘)，Cuda，Cudnn，Anaconda
+软件环境：双系统Ubuntu 20.04及以上 (ubuntu系统单独一个500G/1T固态硬盘)，Cuda，Cudnn，Anaconda，FanQiang
 
 #### 基础知识学习
 掌握ROS基础知识！      
